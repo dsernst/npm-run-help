@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/dsernst/npm-run-help#readme",
   "dependencies": {
-    "chalk": "^1.1.1"
+    "chalk": "^1.1.1",
+    "lodash.map": "^3.1.4"
   }
 }

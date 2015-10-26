@@ -1,6 +1,6 @@
 # npm-run-help
 
-Get a list of the `npm run` scripts available.
+Get a list of the [`npm run` scripts](https://docs.npmjs.com/cli/run-script) available.
 
 ## Install
 
@@ -8,7 +8,7 @@ First download:
 
 `npm i --save-dev npm-run-help`
 
-Then add to your `package.json`'s scripts field.
+Then add to your `package.json`'s scripts field:
 
 ```diff
 "scripts": {
@@ -29,6 +29,6 @@ Now that it's installed, run:
 npm run help
 ```
 
-to see your currently installed `run-scripts`.
+to see your available [`run-scripts`](https://docs.npmjs.com/cli/run-script).
 
 ![screenshot](screenshot.png)

@@ -15,6 +15,7 @@ Then add to your `package.json`'s scripts field.
 +  "help": "npm-run-help",
   "build": "browserify load-quote.js -v | uglifyjs -v > bundle.js && git add bundle.js && git commit -m 'Build bundle.js'",
   "deploy": "git checkout gh-pages && git merge --no-edit master && npm run build && git push && git checkout -",
+  "test": "echo \"Error: no test specified\" && exit 1",
   "watch": "watchify load-quote.js -o bundle.js -dv"
 },
 ```
@@ -29,3 +30,5 @@ npm run help
 ```
 
 to see your currently installed `run-scripts`.
+
+![screenshot](screenshot.png)

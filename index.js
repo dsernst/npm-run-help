@@ -1,3 +1,5 @@
+'use strict'
+
 console.log('Usage')
 console.log('  npm run [NAME]')
 console.log('')

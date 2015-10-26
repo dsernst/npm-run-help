@@ -1,0 +1,27 @@
+{
+  "name": "npm-run-help",
+  "version": "0.0.1",
+  "description": "Like gulp-run-help, but for npm run-script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsernst/npm-run-help.git"
+  },
+  "keywords": [
+    "npm",
+    "run",
+    "run-script",
+    "help",
+    "task",
+    "list"
+  ],
+  "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsernst/npm-run-help/issues"
+  },
+  "homepage": "https://github.com/dsernst/npm-run-help#readme"
+}

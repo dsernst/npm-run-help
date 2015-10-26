@@ -1,6 +1,6 @@
 {
   "name": "npm-run-help",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Like gulp-run-help, but for npm run-script",
   "main": "index.js",
   "bin": "index.js",

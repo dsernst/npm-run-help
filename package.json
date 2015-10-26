@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Like gulp-run-help, but for npm run-script",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "help": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"

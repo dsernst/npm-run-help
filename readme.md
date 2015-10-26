@@ -32,3 +32,13 @@ npm run help
 to see your available [`run-scripts`](https://docs.npmjs.com/cli/run-script).
 
 ![screenshot](screenshot.png)
+
+## Global install
+
+An alternative is to globally install the package to your machine
+
+`npm i --global npm-run-help`
+
+and then you can use it in any repo immediately with:
+
+`npm-run-help` (note the hyphens)

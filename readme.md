@@ -1,6 +1,6 @@
 # npm-run-help
 
-Get a list of the [`npm run` scripts](https://docs.npmjs.com/cli/run-script) available.
+List the [`npm run` scripts](https://docs.npmjs.com/cli/run-script) available.
 
 ## Install
 

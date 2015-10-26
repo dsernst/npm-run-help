@@ -2,9 +2,11 @@
 
 'use strict'
 
-console.log('Usage')
+var chalk = require('chalk')
+
+console.log(chalk.underline('Usage'))
 console.log('  npm run [NAME]')
 console.log('')
-console.log('Available scripts:')
+console.log(chalk.underline('Available scripts:'))
 console.log(require(process.cwd() + '/package.json').scripts)
 console.log()

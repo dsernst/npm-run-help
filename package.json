@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/dsernst/npm-run-help/issues"
   },
-  "homepage": "https://github.com/dsernst/npm-run-help#readme"
+  "homepage": "https://github.com/dsernst/npm-run-help#readme",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
 }
